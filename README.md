@@ -48,7 +48,7 @@ Contributors names and contact info
 
 * 0.2
     * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
+    * See [commit change](https://github.com/Machorius/TheRabbitsBlade/graphs/commit-activity) or See [issues](https://github.com/Machorius/TheRabbitsBlade/issues)
 * 0.1
     * Initial Release
 
